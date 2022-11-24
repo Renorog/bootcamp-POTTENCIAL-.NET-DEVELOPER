@@ -9,9 +9,9 @@ namespace ExemploExplorando.Models
     {
         public Venda(int id, string produto, decimal preco)
         {
-            id = id;
+            Id = id;
             Produto = produto;
-            preco = preco;
+            Preco = preco;
         }
 
         public int Id { get; set; }
