@@ -2,11 +2,13 @@
   {
     "Id": 1,
     "Produto": "Material de escritório",
-    "Preco": 25.00
+    "Preco": 25.00,
+    "DataVenda": "2022-11-24T21:57:41.8878636-03:00"
   },
   {
     "Id": 2,
     "Produto": "Licença de software",
-    "Preco": 110.00
+    "Preco": 110.00,
+    "DataVenda": "2022-11-24T21:57:41.8878636-03:00"
   }
 ]
